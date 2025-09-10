@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello There! I am a Software Engineer. <br> <br>My name is Ozgur Ay. <br> <br>I'm Currently working on .NET at Visual Studio<br><br>I'm looking to collaborate to projects AI<br><br>I'm looking for help Java, C, C++ and then C# <br><br>I'm currently learning AI Projects
+Hello There! I am a Software Developer. <br> <br>My name is Ozgur Ay. <br> <br>I'm Currently working on .NET at Visual Studio<br><br>I'm looking to collaborate to projects AI<br><br>I'm looking for help Java, C, C++ and then C# <br><br>I'm currently learning AI Projects
 
 
 ## 🌐 Socials:
